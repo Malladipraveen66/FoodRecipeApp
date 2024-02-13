@@ -1,0 +1,45 @@
+/* RandomUser.css */
+
+.random-user-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .user-card {
+    width: 300px;
+    background-color: rgb(250, 250, 250);
+    padding: 20px;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .user-details {
+    flex-grow: 1;
+  }
+  
+  .user-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .user-gender {
+    margin-bottom: 10px;
+  }
+  
+  .user-phone {
+    font-style: italic;
+  }
+  

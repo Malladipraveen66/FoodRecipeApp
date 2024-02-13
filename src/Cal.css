@@ -1,0 +1,9 @@
+.calculator h1{
+    text-align: center;
+    color: aqua;
+}
+.inbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
